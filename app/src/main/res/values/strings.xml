@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">SecretSanta</string>
+    <string name="app_name">Secret Santa</string>
+
+    <string name="start_activity_get_started_button">Get Started!</string>
+
+    <string name="get_santas_activity_explain_text">Alright, let's use your Contacts to find our Secret Santas and their significant others!</string>
+    <string name="get_santas_activity_get_contact_button_text">Get Contact</string>
+    <string name="get_santas_activity_cancel_button_text">Cancel</string>
 </resources>
